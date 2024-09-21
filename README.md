@@ -13,7 +13,7 @@ A minimal React boilerplate using Vite, TailwindCSS for styling, and a custom us
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Sejrskild/react-boilerplate.git
    ```
 
 2. Install dependencies
